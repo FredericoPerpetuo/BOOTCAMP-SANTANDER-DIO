@@ -2,7 +2,7 @@
 
 API Rest para controle de ponto e acesso dos usuários de uma empresa
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 - Java
 - Sring Boot
 - Hibernate Envers
